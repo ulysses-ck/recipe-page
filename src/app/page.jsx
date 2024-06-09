@@ -37,7 +37,7 @@ export default function Home() {
         </ul>
       </div>
 
-      <h2 className="text-2xl text-[#7f4630]">Ingredients</h2>
+      <h2 className="text-2xl text-[hsl(14,45%,36%)]">Ingredients</h2>
       <ul>
         <li className="list-inside list-disc">2-3 large eggs</li>
         <li className="list-inside list-disc">Salt, to taste</li>
