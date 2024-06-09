@@ -12,6 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Overview
 
 ### Screenshot
+![image](https://github.com/ulysses-ck/recipe-page/assets/50756389/05a45d9d-2109-4be1-b5ed-cff52bce1c26)
 
 ## My process
 
